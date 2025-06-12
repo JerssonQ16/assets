@@ -1,0 +1,11 @@
+{
+  "name": "AiCop",
+  "symbol": "ACP",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4d0FFD7a7eCa43B5a86aDEC1Ed0A61efEeee32e81",
+  "links": {
+    "website": "https://aicop.online"
+  }
+}
